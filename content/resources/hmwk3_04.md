@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains 3 problems based on Lagrange multipliers, and
   eigenvector / eigenvalue analysis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-864-inference-from-data-and-models-spring-2005/08cb81bb61a4a38038f8b140de95639f_hmwk3_04.pdf
+file: /media/courses/12-864-inference-from-data-and-models-spring-2005/08cb81bb61a4a38038f8b140de95639f_hmwk3_04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hmwk3_04.pdf
 uid: 08cb81bb-61a4-a380-38f8-b140de95639f

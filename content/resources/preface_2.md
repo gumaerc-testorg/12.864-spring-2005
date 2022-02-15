@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-864-inference-from-data-and-models-spring-2005/ec1182b9d4fc409bffa8ec1dcbb7360e_preface_2.pdf
+file: /media/courses/12-864-inference-from-data-and-models-spring-2005/ec1182b9d4fc409bffa8ec1dcbb7360e_preface_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: preface_2.pdf
 uid: ec1182b9-d4fc-409b-ffa8-ec1dcbb7360e

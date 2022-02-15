@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes the solutions of equations by non-normal systems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-864-inference-from-data-and-models-spring-2005/86d87d02b6d9ddf3cb85c4115fb806df_nonnormal_5_6.pdf
+file: /media/courses/12-864-inference-from-data-and-models-spring-2005/86d87d02b6d9ddf3cb85c4115fb806df_nonnormal_5_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: nonnormal_5_6.pdf
 uid: 86d87d02-b6d9-ddf3-cb85-c4115fb806df

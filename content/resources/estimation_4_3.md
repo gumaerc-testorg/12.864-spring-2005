@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains notes on model and data consistency, and estimation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-864-inference-from-data-and-models-spring-2005/088609197070bd62a97f5017e68f8195_estimation_4_3.pdf
+file: /media/courses/12-864-inference-from-data-and-models-spring-2005/088609197070bd62a97f5017e68f8195_estimation_4_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: estimation_4_3.pdf
 uid: 08860919-7070-bd62-a97f-5017e68f8195

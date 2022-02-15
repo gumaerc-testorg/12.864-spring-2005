@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This file contains notes on duality and simplification: The steady-state
   filter and adjoint.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-864-inference-from-data-and-models-spring-2005/2cfc258d4cdf5adc2bacd18f01b718ca_duality_4_5.pdf
+file: /media/courses/12-864-inference-from-data-and-models-spring-2005/2cfc258d4cdf5adc2bacd18f01b718ca_duality_4_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: duality_4_5.pdf
 uid: 2cfc258d-4cdf-5adc-2bac-d18f01b718ca

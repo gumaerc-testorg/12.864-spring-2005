@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-864-inference-from-data-and-models-spring-2005/06c65ff8ba8c27946bfd0dfed68a100d_eigenvector_3_1.pdf
+file: /media/courses/12-864-inference-from-data-and-models-spring-2005/06c65ff8ba8c27946bfd0dfed68a100d_eigenvector_3_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: eigenvector_3_1.pdf
 uid: 06c65ff8-ba8c-2794-6bfd-0dfed68a100d
