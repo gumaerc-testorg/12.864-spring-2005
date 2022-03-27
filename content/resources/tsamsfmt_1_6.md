@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: tsamsfmt_1_6.pdf
 uid: 04cd93f8-2f49-4986-7148-977900ee2a11

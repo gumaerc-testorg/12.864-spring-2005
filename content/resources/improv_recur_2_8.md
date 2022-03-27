@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: improv_recur_2_8.pdf
 uid: a321db74-ecb7-3831-61d3-62b9b1d85b80

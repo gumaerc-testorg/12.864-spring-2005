@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: nonnormal_5_6.pdf
 uid: 86d87d02-b6d9-ddf3-cb85-c4115fb806df

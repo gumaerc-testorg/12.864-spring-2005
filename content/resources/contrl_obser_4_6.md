@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: contrl_obser_4_6.pdf
 uid: 8e389f64-6ec5-84ad-6d3d-50912bdd97aa

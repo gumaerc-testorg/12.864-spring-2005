@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12018fc7-cbee-1908-68cf-f8d44ce5a9fb
 resourcetype: Document
 title: hmwk2_03.pdf
 uid: a6257f01-f2ec-d8bb-788a-1282190ca5d4

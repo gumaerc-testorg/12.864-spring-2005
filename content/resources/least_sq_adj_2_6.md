@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: least_sq_adj_2_6.pdf
 uid: f25eeac4-17a0-90dd-ac77-dd0400ab2bf2
