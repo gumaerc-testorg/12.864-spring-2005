@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains an overview of the course, texbook and
+  readings, homework and projects, prerequisites, and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
