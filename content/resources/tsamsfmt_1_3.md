@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/e42054f93052728
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tsamsfmt_1_3.pdf
 uid: e42054f9-3052-7284-87cb-0d3a711564ea
 ---
 This resource includes the explanation of the sampling theorem.
-

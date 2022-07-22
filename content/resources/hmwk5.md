@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/290bc734a99bda4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hmwk5.pdf
 uid: 290bc734-a99b-da41-b188-4911f176cfd4
 ---
 This resource contains 5 problems based on Fourier transform, pseudorandom Gaussian variates, and coherence.
-

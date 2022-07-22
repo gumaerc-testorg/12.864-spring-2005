@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/c15301d1da47799
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hmwk4_04.pdf
 uid: c15301d1-da47-7995-098a-255a3bd70b4d
 ---
 This resource contains 4 problems based on matrices, and SVD.
-

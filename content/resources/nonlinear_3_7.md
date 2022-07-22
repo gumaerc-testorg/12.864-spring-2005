@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/0c129cf368b9533
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nonlinear_3_7.pdf
 uid: 0c129cf3-68b9-5338-9c4e-f932799c2287
 ---
 This file contains notes on total least squares, method of total inversion, variant nonlinear methods, including combinatorial ones
-

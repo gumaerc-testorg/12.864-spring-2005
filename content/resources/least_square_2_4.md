@@ -8,6 +8,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/76f0464070f454e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 76f04640-70f4-54ed-5f74-77601bf6e8ac
 ---
 This resource contains the following topics:
 Basic Formulation, Weighted and Tapered Least-Squares, Underdetermined Systems and Lagrange Multipliers, and Interpretation of Discrete Adjoints.
-

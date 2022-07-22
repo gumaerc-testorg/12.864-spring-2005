@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/f30980542d1dd34
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tsamsfmt_chap3.pdf
 uid: f3098054-2d1d-d340-d79f-12cd5c55409e
 ---
 This resource includes some examples of applications in climate.
-

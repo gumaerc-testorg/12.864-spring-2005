@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/e19a413bc30bbe2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tsamsfmt2_6.pdf
 uid: e19a413b-c30b-be29-76a8-8f4e57930df5
 ---
 This resource includes the explanation of Wiener and Kalman Filters.
-

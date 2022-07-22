@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/f1d84d3a8e91027
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

@@ -7,6 +7,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/a321db74ecb7383
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: a321db74-ecb7-3831-61d3-62b9b1d85b80
 ---
 This resource contains the following topics:
 Least-Squares, and Minimum Variance Recursive Estimates.
-

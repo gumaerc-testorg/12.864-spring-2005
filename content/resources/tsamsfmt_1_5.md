@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/8094c8f25a828e6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tsamsfmt_1_5.pdf
 uid: 8094c8f2-5a82-8e6c-5e0b-e013b4dc174f
 ---
 This resource explains aliasing as an elementary result, and it is pervasive in science.
-

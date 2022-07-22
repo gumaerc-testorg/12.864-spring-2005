@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/3435689d5afc61f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tsamsfmt1_8.pdf
 uid: 3435689d-5afc-61fc-88d1-014f26431a11
 ---
 This resource explains circular convolution for descrete sequences.
-

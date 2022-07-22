@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/988c34f345e8a4d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tsamsfmt_1_2.pdf
 uid: 988c34f3-45e8-a4d4-c2c7-a687aad60339
 ---
 This resource incldues the explanation of fourier series and time-limited functions.
-

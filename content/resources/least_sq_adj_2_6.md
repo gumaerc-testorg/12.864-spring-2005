@@ -7,6 +7,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/f25eeac417a090d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: f25eeac4-17a0-90dd-ac77-dd0400ab2bf2
 ---
 This resource contains the following topics:
 Exact Constraints, and Relation to Green Functions.
-

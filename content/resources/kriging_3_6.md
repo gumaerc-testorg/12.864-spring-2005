@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/322f45f6eb86231
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: kriging_3_6.pdf
 uid: 322f45f6-eb86-2314-243a-53977012afee
 ---
 This file contains notes for Kriging and other variants of Gauss-Markov estimation.
-

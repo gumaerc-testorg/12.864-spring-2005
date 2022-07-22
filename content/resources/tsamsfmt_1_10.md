@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/06ceffa28d09ca8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tsamsfmt_1_10.pdf
 uid: 06ceffa2-8d09-ca8c-0df1-b53cb2e1d03f
 ---
 This resource includes the following topics: Basic Probability, Characteristic Functions, Central Limit Theorems, Stationary, and Sample Estimates.
-

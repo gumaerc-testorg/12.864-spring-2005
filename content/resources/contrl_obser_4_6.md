@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/8e389f646ec584a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: contrl_obser_4_6.pdf
 uid: 8e389f64-6ec5-84ad-6d3d-50912bdd97aa
 ---
 This file contains notes on controllability and observability.
-

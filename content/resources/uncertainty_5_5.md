@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/0bb403b68c438cd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: uncertainty_5_5.pdf
 uid: 0bb403b6-8c43-8cd9-44c2-3ab8495383ef
 ---
 This resource includes the advantages and disadvantages of solving the equations using Lagrange multiplier method.
-

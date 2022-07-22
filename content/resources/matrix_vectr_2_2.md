@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/0750d70d6abbb4c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: matrix_vectr_2_2.pdf
 uid: 0750d70d-6abb-b4ca-275d-91b9531d6bb8
 ---
 This resource includes a brief results of equations solved using matrix and vector algebra.
-

@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/088609197070bd6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: estimation_4_3.pdf
 uid: 08860919-7070-bd62-a97f-5017e68f8195
 ---
 This file contains notes on model and data consistency, and estimation.
-

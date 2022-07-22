@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/a6257f01f2ecd8b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hmwk2_03.pdf
 uid: a6257f01-f2ec-d8bb-788a-1282190ca5d4
 ---
 This resource contains 3 problems based on vectors, eigenvalue/eigenvector, and singular vector expansion.
-

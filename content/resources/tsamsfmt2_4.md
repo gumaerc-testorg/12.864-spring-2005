@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/512cca331adf7f1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tsamsfmt2_4.pdf
 uid: 512cca33-1adf-7f17-1d99-d7c58078cf87
 ---
 This resource includes the usasge of Spectral Estimation from ARMA Forms.
-

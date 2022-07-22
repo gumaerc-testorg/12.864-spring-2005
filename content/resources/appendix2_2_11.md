@@ -5,6 +5,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/0830815b9461251
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: appendix2_2_11.pdf
 uid: 0830815b-9461-2511-c043-2970a085dbab
 ---
 This resource contains the appecdix for chapter 2 - Basics Machinary.
-

@@ -8,6 +8,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/b9f98645c56658f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: b9f98645-c566-58fc-24a7-0767d79c522a
 ---
 This resource includes the following topcis:
 Simple Vector Expansions, Square-Symmetric Problem, Arbitrary Systems, The Singular Value Decomposition, and Algebraic Equations.
-

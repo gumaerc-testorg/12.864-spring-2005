@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/d28f931b8031bb6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hmwk3.pdf
 uid: d28f931b-8031-bb62-1767-809163f00d1f
 ---
 This resource contains 3 problems based on vecots, matrix-vector least-squares, and Gauss-Markov.
-

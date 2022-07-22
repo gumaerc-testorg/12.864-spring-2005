@@ -8,6 +8,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/9316aab18ebbc4d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 9316aab1-8ebb-c4df-4107-7392bd8b6749
 ---
 This resource contains the following topics:
 Differential Equations, Partial Differential Equations, and Importance of Forward Model.
-

@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/4be86c9a0221e21
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: preface_1.pdf
 uid: 4be86c9a-0221-e219-db00-f265aa182aaf
 ---
 This resource includes the preface of 1 part and a large extent the second edition of The Ocean Circulation Inverse Problem.
-

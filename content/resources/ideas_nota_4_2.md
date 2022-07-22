@@ -6,6 +6,7 @@ file: /courses/12-864-inference-from-data-and-models-spring-2005/1d5e19f982ac8a7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ideas_nota_4_2.pdf
 uid: 1d5e19f9-82ac-8a72-b5f7-13e9afe2a3ee
 ---
 This file contains notes for basic ideas and notation, models and how to find an inverse matrix A, observations and data.
-
