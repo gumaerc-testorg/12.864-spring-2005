@@ -4,6 +4,7 @@ description: This resource has been primarily devoted to the principles underlyi
   various state estimation methods, rather than to addressing practical issues of
   implementation.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/51d2b63d2374b28797fbb77f935e987c_approximate_5_3.pdf
+file_size: 191515
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
