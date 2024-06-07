@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-864-inference-from-data-and-models-spring-2005/ec1182b9d4fc409bffa8ec1dcbb7360e_preface_2.pdf
+file_size: 73048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

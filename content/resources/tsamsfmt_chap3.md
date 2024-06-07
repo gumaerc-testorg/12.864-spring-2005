@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes some examples of applications in climate.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/f30980542d1dd340d79f12cd5c55409e_tsamsfmt_chap3.pdf
+file_size: 88659
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 6 problems based on eigenvector/eigenvalue, resolution
   matrices, Laplace-Poisson equation, and least-squares.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/ff06aad319827314b6a07929eb23a35f_hmwk3_03.pdf
+file_size: 77101
 file_type: application/pdf
 learning_resource_types:
 - Assignments

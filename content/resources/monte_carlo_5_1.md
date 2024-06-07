@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes some equations based on Ensemble Methods and Particle
   Filters.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/916736773602d3e5d1d8be3b79c509dc_monte_carlo_5_1.pdf
+file_size: 168778
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes the usage of Multitaper idea instead of Fourier
   transform.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/0e54c11224a4fef5965e0edae7528d8d_tsamsfmt_1_14.pdf
+file_size: 137489
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

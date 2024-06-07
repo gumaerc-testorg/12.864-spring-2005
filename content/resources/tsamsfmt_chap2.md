@@ -4,6 +4,7 @@ description: This file contains notes for the time domain methods, geometric int
   Karhunen-Lo?ve theorem and singular spectrum analysis, the kalman filter, Gauss-Morkov
   theorem, trend determination,
 file: /courses/12-864-inference-from-data-and-models-spring-2005/b8825f98aeeb41397cc17e3635ab608d_tsamsfmt_chap2.pdf
+file_size: 390987
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

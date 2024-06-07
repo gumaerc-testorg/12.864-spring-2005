@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains about discrete fourier analysis for a problem.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/04cd93f82f4949867148977900ee2a11_tsamsfmt_1_6.pdf
+file_size: 269408
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
