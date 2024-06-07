@@ -3,6 +3,7 @@ content_type: resource
 description: This resource mainly discusses about the differential equations which
   are often used to describe natural processes.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/0503b9dadcaf569faddddb2dfc34e5c1_differen_eq_1_1.pdf
+file_size: 137699
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

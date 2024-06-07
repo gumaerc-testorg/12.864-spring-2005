@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains circular convolution for descrete sequences.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/3435689d5afc61fc88d1014f26431a11_tsamsfmt1_8.pdf
+file_size: 642372
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

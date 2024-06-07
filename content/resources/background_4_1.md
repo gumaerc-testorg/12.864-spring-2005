@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains notes on the time dependent inverse problem: state
   estimation.'
 file: /courses/12-864-inference-from-data-and-models-spring-2005/30481a7465241af37ea118d545d70d03_background_4_1.pdf
+file_size: 140814
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
