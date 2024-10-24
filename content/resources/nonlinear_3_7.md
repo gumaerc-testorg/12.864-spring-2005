@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes on total least squares, method of total inversion,
   variant nonlinear methods, including combinatorial ones
-file: /courses/12-864-inference-from-data-and-models-spring-2005/0c129cf368b953389c4ef932799c2287_nonlinear_3_7.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/0c129cf368b953389c4ef932799c2287_nonlinear_3_7.pdf
 file_size: 281520
 file_type: application/pdf
 learning_resource_types:
