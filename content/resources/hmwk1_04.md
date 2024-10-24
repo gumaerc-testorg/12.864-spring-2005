@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource conatins 3 problems based on differential equations.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/103719a46f6bcb02d6aa3512adf8cfc0_hmwk1_04.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/103719a46f6bcb02d6aa3512adf8cfc0_hmwk1_04.pdf
 file_size: 62248
 file_type: application/pdf
 learning_resource_types:

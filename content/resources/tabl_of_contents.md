@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the different contents captures in course notes.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/551eb32525424ce2483607ce2f1428d7_tabl_of_contents.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/551eb32525424ce2483607ce2f1428d7_tabl_of_contents.pdf
 file_size: 107052
 file_type: application/pdf
 learning_resource_types:

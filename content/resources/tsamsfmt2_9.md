@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the explanation of EOFs (empirical orthogonal
   functions), and SVD.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/c173bc1bf461093529c29973b4735d5d_tsamsfmt2_9.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/c173bc1bf461093529c29973b4735d5d_tsamsfmt2_9.pdf
 file_size: 195994
 file_type: application/pdf
 learning_resource_types:
