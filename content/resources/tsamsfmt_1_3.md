@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the explanation of the sampling theorem.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/e42054f93052728487cb0d3a711564ea_tsamsfmt_1_3.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/e42054f93052728487cb0d3a711564ea_tsamsfmt_1_3.pdf
 file_size: 223752
 file_type: application/pdf
 learning_resource_types:

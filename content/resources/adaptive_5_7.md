@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes notes and solutions of problems using Gauss-Markov
   type method.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/0e271257be98fe40d908c9241605cd36_adaptive_5_7.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/0e271257be98fe40d908c9241605cd36_adaptive_5_7.pdf
 file_size: 142520
 file_type: application/pdf
 learning_resource_types:

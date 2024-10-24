@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 problems based on vectors, eigenvalue/eigenvector,
   and singular vector expansion.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/a6257f01f2ecd8bb788a1282190ca5d4_hmwk2_03.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/a6257f01f2ecd8bb788a1282190ca5d4_hmwk2_03.pdf
 file_size: 42500
 file_type: application/pdf
 learning_resource_types:
