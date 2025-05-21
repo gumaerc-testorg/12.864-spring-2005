@@ -4,7 +4,7 @@ description: 'This resource contains the following topics:
 
   Differential Equations, Partial Differential Equations, and Importance of Forward
   Model.'
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/9316aab18ebbc4df41077392bd8b6749_chap1.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/9316aab18ebbc4df41077392bd8b6749_chap1.pdf
 file_size: 373737
 file_type: application/pdf
 learning_resource_types:
