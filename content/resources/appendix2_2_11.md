@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the appecdix for chapter 2 - Basics Machinary.
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/0830815b94612511c0432970a085dbab_appendix2_2_11.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/0830815b94612511c0432970a085dbab_appendix2_2_11.pdf
 file_size: 143418
 file_type: application/pdf
 learning_resource_types:

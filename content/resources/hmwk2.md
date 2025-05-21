@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 5 problems based on vectors, lagrange multipliers,
   simultaneous equations, and eigenvalue/eigenvector.
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/62c7ec762490b0c32ceec3ad812aa547_hmwk2.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/62c7ec762490b0c32ceec3ad812aa547_hmwk2.pdf
 file_size: 68933
 file_type: application/pdf
 learning_resource_types:

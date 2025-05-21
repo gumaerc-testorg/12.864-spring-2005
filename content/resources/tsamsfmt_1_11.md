@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the process of defining the spectral estimation
   for a particular problem.
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/f524f8cf246fda31f1f0deb5909998c9_tsamsfmt_1_11.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/f524f8cf246fda31f1f0deb5909998c9_tsamsfmt_1_11.pdf
 file_size: 213152
 file_type: application/pdf
 learning_resource_types:

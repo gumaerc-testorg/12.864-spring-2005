@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource tells about taking discrete observations for a problem.
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/5a380c195a0481dbbde991a3e9a042c6_tsamsfmt_1_4.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/5a380c195a0481dbbde991a3e9a042c6_tsamsfmt_1_4.pdf
 file_size: 232001
 file_type: application/pdf
 learning_resource_types:

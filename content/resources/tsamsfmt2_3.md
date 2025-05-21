@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains representation of a time series to solve a problem.
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/91c36ed8e0cdda8f3b3a610490b194c5_tsamsfmt2_3.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/91c36ed8e0cdda8f3b3a610490b194c5_tsamsfmt2_3.pdf
 file_size: 170464
 file_type: application/pdf
 learning_resource_types:

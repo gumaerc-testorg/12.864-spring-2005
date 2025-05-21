@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/f1d84d3a8e91027373ebba5a26255a03_chap4.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/f1d84d3a8e91027373ebba5a26255a03_chap4.pdf
 file_size: 1342863
 file_type: application/pdf
 learning_resource_types:
