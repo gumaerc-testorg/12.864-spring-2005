@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the solutions of equations by non-normal systems.
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/86d87d02b6d9ddf3cb85c4115fb806df_nonnormal_5_6.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/86d87d02b6d9ddf3cb85c4115fb806df_nonnormal_5_6.pdf
 file_size: 157952
 file_type: application/pdf
 learning_resource_types:

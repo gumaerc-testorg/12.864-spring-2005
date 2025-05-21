@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the demonstration of spectral peaks to solve a
   problem.
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/c0e34b828988a115c6f6ea786663697c_tsamsfmt_1_15.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/c0e34b828988a115c6f6ea786663697c_tsamsfmt_1_15.pdf
 file_size: 203823
 file_type: application/pdf
 learning_resource_types:

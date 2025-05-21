@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the following topics:
 
   Least-Squares, and Minimum Variance Recursive Estimates.'
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/a321db74ecb7383161d362b9b1d85b80_improv_recur_2_8.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/a321db74ecb7383161d362b9b1d85b80_improv_recur_2_8.pdf
 file_size: 235057
 file_type: application/pdf
 learning_resource_types:

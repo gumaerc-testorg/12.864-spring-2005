@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes on the sampling, one dimensional interpolation,
   higher dimensional mapping, and mapping deravatives.
-file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/623181828d7cfe74a75a52670afbe1d6_sampling_3_2.pdf
+file: /courses/12-864-inference-from-data-and-models-spring-2005/623181828d7cfe74a75a52670afbe1d6_sampling_3_2.pdf
 file_size: 536266
 file_type: application/pdf
 learning_resource_types:
