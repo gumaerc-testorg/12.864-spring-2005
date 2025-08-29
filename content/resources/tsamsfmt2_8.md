@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes debate in climate and other studies concerns the
   reality of trends in data.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/45e9039315a662c4807361d729b58899_tsamsfmt2_8.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/45e9039315a662c4807361d729b58899_tsamsfmt2_8.pdf
 file_size: 147698
 file_type: application/pdf
 learning_resource_types:
