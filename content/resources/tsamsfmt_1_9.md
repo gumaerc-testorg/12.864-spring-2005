@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains Fourier Series as Least-Squares in solving a particular
   problem.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/966d32be8d44d725214c341359fb7355_tsamsfmt_1_9.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/966d32be8d44d725214c341359fb7355_tsamsfmt_1_9.pdf
 file_size: 152042
 file_type: application/pdf
 learning_resource_types:

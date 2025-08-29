@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the explanation of Gauss-Markov Theorem.
-file: /courses/12-864-inference-from-data-and-models-spring-2005/57cf359fd61b62764c864fbd5167e421_tsamsfmt2_7.pdf
+file: /ol-ocw-studio-app/courses/12-864-inference-from-data-and-models-spring-2005/57cf359fd61b62764c864fbd5167e421_tsamsfmt2_7.pdf
 file_size: 179554
 file_type: application/pdf
 learning_resource_types:
